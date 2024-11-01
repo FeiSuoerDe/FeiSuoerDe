@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**FeiSuoerDe/FeiSuoerDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub 主页
 
-Here are some ideas to get you started:
+**姓名**：[你的名字]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**个人简介**：
+我是一名热爱编程和开源的开发者，专注于 [技术领域] 👨‍💻
+
+**技术栈**：
+- [技术 1]
+- [技术 2]
+- [技术 3]
+
+**项目展示**：
+- [项目 1 名称]：[项目 1 描述及链接]
+- [项目 2 名称]：[项目 2 描述及链接]
+
+**开源贡献**：
+- [贡献 1 描述及链接]
+- [贡献 2 描述及链接]
+
+**联系方式**：
+- 邮箱：[你的邮箱] 📧
+- 社交媒体：[社交媒体链接] 👥
+
+---
+
+**近期动态**
+
+[描述近期的开发活动或学习进展]
+
+**未来计划**：
+我计划继续深入学习和探索 [技术方向]，为开源社区贡献更多有价值的项目💪
